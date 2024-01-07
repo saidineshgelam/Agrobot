@@ -2,7 +2,7 @@
 Agrobot contributes significantly to the modernization of agriculture by enhancing productivity, scalability, and precision farming practices. Beyond its role in automating fruit picking, the robot provides real-time data that enables farmers to optimize resource use and reduce environmental impact. The incorporation of robotics in agriculture, exemplified by Agrobot, showcases the transformative potential of technology in revolutionizing traditional farming methods. By alleviating labour constraints, enhancing efficiency, and promoting sustainable practices, Agrobot symbolizes a shift towards a more resilient, productive, and environmentally conscious future for the agricultural sector.
 
 Our project aims to design and implement a robot capable of identifying and selectively picking ripe fruits from trees and collecting them in a bin, streamlining the harvesting process and reducing the reliance on manual labour. This is done by integrating a manipulator arm (UR-10) into a mobile robot.
-![image](https://github.com/saidineshgelam/Agrobot/assets/144295692/d83024fb-ba30-4c04-8636-3b29c613535e)
+![image](https://github.com/saidineshgelam/Agrobot/assets/144295692/072722a0-23b4-411c-a17c-d123a47801c3)
 
 Robot Type:
 The Agrobot is a mobile robot designed for various applications, equipped with specific features that
